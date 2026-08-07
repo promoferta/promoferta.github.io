@@ -242,7 +242,45 @@ footer{
 
 }
 
+/* Vitrine Shopee */
 
+.vitrine-shopee{
+    max-width:900px;
+    margin:30px auto;
+    padding:25px;
+    text-align:center;
+    background:#292929;
+    border:2px solid #ee4d2d;
+    border-radius:15px;
+}
+
+.vitrine-shopee h2{
+    font-size:28px;
+    margin-bottom:10px;
+}
+
+.vitrine-shopee p{
+    color:#dddddd;
+    margin-bottom:20px;
+    line-height:1.6;
+}
+
+.btn-achadinhos{
+    display:inline-block;
+    background:#ee4d2d;
+    color:#fff;
+    text-decoration:none;
+    padding:15px 30px;
+    border-radius:10px;
+    font-weight:bold;
+    font-size:18px;
+    transition:.3s;
+}
+
+.btn-achadinhos:hover{
+    background:#ff6d47;
+    transform:scale(1.05);
+}
 
 /* CELULAR */
 
